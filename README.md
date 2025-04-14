@@ -1,6 +1,4 @@
----
-
-```markdown
+markdown
 # 🎯 Personalized Email Generator Web App
 
 A simple full-stack web application that generates personalized emails based on user input like name, topic, role, tone, and purpose. This app uses Flask for the backend and React for the frontend.
@@ -9,7 +7,6 @@ A simple full-stack web application that generates personalized emails based on 
 
 The project is designed to demonstrate AI-generated personalized email writing. Users can choose various inputs like tone (formal, casual, friendly), purpose (introduction, invitation, feedback), and topic (e.g., Java, CSS, Python). The app then generates a contextual and human-like email message.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +23,6 @@ The project is designed to demonstrate AI-generated personalized email writing. 
 - `textgen` for generating email text (offline logic)
 - Can optionally use OpenAI or Hugging Face APIs (if configured)
 
----
 
 ## 🌟 Features
 
@@ -37,7 +33,6 @@ The project is designed to demonstrate AI-generated personalized email writing. 
 - Offline email generator (no external API required)
 - Easy to deploy locally
 
----
 
 ## 🚀 Getting Started
 
@@ -67,7 +62,6 @@ npm start
 
 App will run on `http://localhost:3000` and backend on `http://127.0.0.1:5000`.
 
----
 
 ## 📁 Project Structure
 
@@ -87,7 +81,6 @@ email-gen-app/
 │   │   └── reportWebVitals.js
 ```
 
----
 
 ## 📷 Screenshots
 
@@ -95,7 +88,6 @@ email-gen-app/
 
 
 
----
 
 ## 📄 License
 
@@ -111,4 +103,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
----
